@@ -5,45 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffc82ec1-d780-4d78-854e-19a2f9e54640" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/dtos/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/dtos/LoginResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/dtos/RegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/dtos/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/auth_users/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/dtos/CartDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/dtos/CartItemDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/entity/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/entity/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/repository/CartItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/cart/repository/CartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/category/dtos/CategoryDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/category/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/category/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/email_notification/dtos/NotificationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/email_notification/entity/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/email_notification/repository/NotificationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/menu/dtos/MenuDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/menu/entity/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/menu/repository/MenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/dtos/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/dtos/OrderItemDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/entity/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/repository/OrderItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/order/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/payment/dtos/PaymentDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/payment/entity/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/payment/repository/PaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/response/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/review/dtos/ReviewDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/review/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/review/repository/ReviewRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/role/dtos/RoleDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/role/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/role/repository/RoleRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodApp/src/main/java/com/dhruv/FoodApp/FoodAppApplication.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +46,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
