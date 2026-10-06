@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffc82ec1-d780-4d78-854e-19a2f9e54640" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/BadRequestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/PaymentProcessingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/UnauthorizedAccessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/CustomAuthenticationEntryPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/NotFoundException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
