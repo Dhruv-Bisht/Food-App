@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffc82ec1-d780-4d78-854e-19a2f9e54640" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/PaymentProcessingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/UnauthorizedAccessException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoodApp/src/main/java/com/dhruv/FoodApp/FoodAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodApp/FoodApp/src/main/java/com/dhruv/FoodApp/exceptions/NotFoundException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,12 +40,16 @@
     </option>
   </component>
   <component name="ProjectId" id="3KJXMQ71c6iDTgXM0CC6qiPmPz3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -63,5 +71,8 @@
       <updated>1791276597904</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
